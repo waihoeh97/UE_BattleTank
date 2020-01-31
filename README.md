@@ -1,2 +1,2 @@
 # BattleTank
-Tank Battle 1-on-1 with AI in Unreal Engine
+1-on-1 Tank Battle with AI in Unreal Engine
